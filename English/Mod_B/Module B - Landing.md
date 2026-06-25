@@ -30,15 +30,20 @@ David Malouf (born 1934, Brisbane) — one of Australia's most celebrated writer
 
 ---
 
-## Files in This Folder
+## Your School's Curated 8-Poem List
 
-| File | What it covers |
-|------|----------------|
-| **Earth Hour - Title Poem** | The title poem analysis |
-| **Elegy - The Absences** | Elegy analysis |
-| **On the Verge** | Liminal space analysis |
-| **In the Gallery** | Art and framing analysis |
-| **Collection Analysis - Earth Hour** | How the poems work together as a unified whole |
+| # | Poem | Key Focus |
+|---|------|-----------|
+| 1 | [[01 - Aquarius]] | The sovereign day, enchantment interrupted, mirror/counterworld |
+| 2 | [[02 - Radiance]] | Wounds as gifts, catalogue of what is given through suffering |
+| 3 | [[03 - Ladybird]] | Grace and its rupture, small creature as wisdom |
+| 4 | [[04 - A Recollection of Starlings]] | Collective flight as vision, memory and motion |
+| 5 | [[05 - Eternal Moment at Poggio Madonna]] | Stillness as luminous event, the eternal in the momentary |
+| 6 | [[06 - Towards Midnight]] | The triptych (The Cup / Towards Midnight / The Rapture), dying and rapture |
+| 7 | [[07 - Earth Hour - Title Poem]] | Humanity's place in the universe, lights off as collective pause |
+| 8 | [[08 - Aquarius II]] | Gratitude for mortality, closing bookend to Aquarius |
+
+**Collection Analysis:** [[Collection Analysis - Earth Hour]]
 
 ---
 
@@ -52,6 +57,7 @@ David Malouf (born 1934, Brisbane) — one of Australia's most celebrated writer
 ---
 
 ## Common Techniques Across the Collection
+
 | Technique | What it does | Why Malouf uses it |
 |-----------|-------------|--------------------|
 | **Enjambment** | Lines run on without end-stops | Reflects continuous flow of time and consciousness — no clean breaks |
@@ -65,8 +71,6 @@ David Malouf (born 1934, Brisbane) — one of Australia's most celebrated writer
 ---
 
 ## See Also
-- [[Earth Hour - Title Poem]]
-- [[Elegy - The Absences]]
-- [[On the Verge]]
-- [[In the Gallery]]
 - [[Collection Analysis - Earth Hour]]
+- [[01 - Aquarius]]
+- [[08 - Aquarius II]]
