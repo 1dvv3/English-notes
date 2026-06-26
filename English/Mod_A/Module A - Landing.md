@@ -23,10 +23,12 @@ The later text (The Hours, 2002) is in an active DIALOGUE with the earlier text 
 
 | File | What it covers |
 |------|----------------|
-| **Mrs Dalloway - Text Analysis** | Woolf's modernist novel — Sally kiss, Septimus, the party |
-| **The Hours - Text Analysis** | Daldry's postmodern film — three timelines, metafiction |
-| **Textual Conversation Synthesis** | Side-by-side resonance/dissonance analysis |
-| **Critical Perspectives - Mod A** | Key critics and how to use them |
+| [[Mrs Dalloway - Text Analysis]] | Woolf's modernist novel — Sally kiss, Septimus, the party |
+| [[The Hours - Text Analysis]] | Daldry's postmodern film — three timelines, metafiction |
+| [[Textual Conversation Synthesis]] | Side-by-side resonance/dissonance analysis |
+| [[Critical Perspectives - Mod A]] | Woolf, Cunningham, Moi, Love, Showalter, Edgar |
+
+**Also see:** [[Writing Structures]] (General folder) for the comparative essay formula
 
 ---
 
@@ -44,3 +46,4 @@ The later text (The Hours, 2002) is in an active DIALOGUE with the earlier text 
 - [[The Hours - Text Analysis]]
 - [[Textual Conversation Synthesis]]
 - [[Critical Perspectives - Mod A]]
+- [[Writing Structures]]

@@ -13,6 +13,26 @@
 | Voice | The distinctive style/perspective of the author or narrator |
 | Structural device | How a text is organised (e.g. framing, fragmentation, flashback) |
 
+### Advanced Literary Terms (Band 6 Vocab)
+
+These terms earn marks because they show you can analyse HOW a text is working at the sentence level — not just WHAT it's saying.
+
+| Term | Definition | Example |
+|------|-----------|---------|
+| **Anadiplosis** | Repeating the last word of a clause at the start of the next | "Fear leads to anger. Anger leads to hate." — chain-links ideas, builds momentum |
+| **Epistrophe** | Repetition at the END of successive clauses (opposite of anaphora) | "...government of the people, by the people, for the people." |
+| **Polysyndeton** | Deliberate overuse of conjunctions (and... and... and) | "And they walked and they talked and the sun went down" — creates breathlessness, accumulation |
+| **Asyndeton** | Deliberate omission of conjunctions | "I came, I saw, I conquered." — speed, force, brutality |
+| **Hypophora** | Asking a question then immediately answering it | "What is mercy? It is the gentle rain that falls from heaven." — Portia's method; controls the reader's answer |
+| **Chiasmus** | ABBA structure — crossing parallel clauses | "Ask not what your country can do for you; ask what you can do for your country." |
+| **Litotes** | Understatement by negating the opposite | "Not bad" (meaning: very good). "She was not unhappy" (meaning: she was devastated) |
+| **Synecdoche** | A part stands for the whole | "All hands on deck" (hands = sailors). "The crown" (crown = monarchy) |
+| **Metonymy** | A related thing stands for the thing itself | "The White House made a statement" (White House = the administration). "She turned to the bottle" (bottle = alcohol) |
+| **Bathos** | A sudden drop from the elevated to the ridiculous | The heroic speech collapses into the banal — often for dark comedy or deflation |
+| **Zeugma** | One verb governs two nouns differently | "She broke his heart and his favourite mug." — one verb, two registers; shows the casual violence of the act |
+
+**When to use these:** Drop ONE in per essay. Not all — that's showing off. One anadiplosis or one hypophora identified earns the marker's respect because it proves you're reading at the sentence level, not just the plot level. Pair with: "Shakespeare uses anaphora here because..." — and explain WHY the repetition does the work, not just THAT it does.
+
 ---
 
 ## Module-Specific Terminology

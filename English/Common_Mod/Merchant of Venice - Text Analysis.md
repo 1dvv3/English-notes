@@ -116,4 +116,5 @@ But Shylock is gone. He exited at the end of Act 4 and never returns. The play's
 ## See Also
 - [[Merchant of Venice - Research Notes]] — plot summary and annotated quote bank
 - [[Critical Perspectives - Merchant of Venice]] — key scholarly readings
+- [[Common Mod - Landing]] — module overview and thesis formulas
 - [[Key Terms]] — module-specific terminology

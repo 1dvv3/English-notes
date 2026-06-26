@@ -58,4 +58,5 @@ Useful critics: **Bloom** (Shylock as both individual and symbol) and **Shapiro*
 ## See Also
 - [[Merchant of Venice - Research Notes]] — plot summary, themes, quote bank
 - [[Merchant of Venice - Text Analysis]] — act-by-act breakdown
+- [[Common Mod - Landing]] — module overview and thesis formulas
 - [[Writing Structures]] — essay formulas for each module

@@ -154,7 +154,8 @@
 ---
 
 ## See Also
-- [[Text Analysis - Merchant of Venice]] — act-by-act breakdown with close readings
+- [[Merchant of Venice - Text Analysis]] — act-by-act breakdown with close readings
 - [[Critical Perspectives - Merchant of Venice]] — Bloom, Shapiro, Star, Auden
+- [[Common Mod - Landing]] — module overview and thesis formulas
 - [[Key Terms]] — module-specific terminology
 - [[Writing Structures]] — essay formulas for each module

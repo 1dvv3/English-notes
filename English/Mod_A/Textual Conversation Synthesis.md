@@ -79,6 +79,76 @@ Context shapes what can be spoken. Woolf's kiss is encoded because 1925 demanded
 
 ---
 
+## Deeper Analysis — Band 6 Moves
+
+### The Doppelgänger Structure
+
+Both texts are organised around a **paired** figure — a "double" who carries what the protagonist cannot.
+
+| Mrs Dalloway (1925) | The Hours (2002) |
+|---------------------|------------------|
+| **Clarissa (day-world) ↔ Septimus (war-world)** | **Clarissa Vaughan (2001) ↔ Laura Brown (1951)** |
+| Clarissa hears about Septimus at her party | Clarissa sits with Laura after Richard's death |
+| Two lives the novel refuses to merge | Two lives the film refuses to merge |
+
+Woolf invented this modernist structure. Daldry inherits and re-forms it. The doubling is:
+- **Vertical** within a single text (the protagonist meets their double)
+- **Horizontal** across the texts (Woolf's doubling in 1925 + Daldry's doubling in 2002)
+
+**Why this matters:** The double IS the textual conversation. Septimus-without-Clarissa would be a different novel; Laura-without-Clarissa-Vaughan would be a different film. The pattern reveals that for both authors, feminine experience requires a SHADOW self — what is socially accepted exists only because something else is socially foreclosed.
+
+### The Uncanny (Freud's *Das Unheimliche*, 1919)
+
+Both texts are saturated with what Freud called the uncanny: *"that species of the frightening that goes back to what was once well known and had long been familiar."*
+
+- Mrs Dalloway: the entire day is haunted by what feels almost-but-not-quite-right. Clarissa has "a positive odour of roses" — she IS the roses, almost, but not quite. Septimus's dead friend Evans is "almost"there — appearing in birdsong, "repeating, like a Greek chorus... out of the human world." The familiar (bird, song) carries the unfamiliar (a dead man's voice).
+- The Hours: the same recurrence across three timelines. We recognise a pattern before we see the women enacting it. The film is ITSELF uncanny — we feel we are returning to the original without ever leaving it.
+
+**Exam deployment:** "Freud's *uncanny* — the familiar-alienated — is the affective mode of both texts. In *Mrs Dalloway*, Septimus's 'birds singing in Greek' make the natural world disclose the unnatural; in *The Hours*, the same configurations recur across half a century until the audience feels not newness but recognition. Both texts suggest that feminine experience across history is, structurally, uncanny — recognisable and unfamiliar simultaneously."
+
+### Form as Argument (Why Woolf's Modernism, Why Daldry's Three Timelines)
+
+| Choice | What it does | Why it's deliberate |
+|--------|-------------|---------------------|
+| **Woolf's interior monologue** | Captures the texture of thought — interruption, association, drift | In 1925, the FORM had to teach readers how consciousness actually moves |
+| **Woolf's time-shift** | The party in June 1923 echoes the kiss from June 1899 — same season, decades apart | Memory collapses decades into a single present |
+| **Daldry's three parallel timelines** | Forces the audience to read three stories as ONE story | In 2002, audiences are saturated with flashbacks; parallel timelines demand attention |
+| **Daldry's metafiction** | We see Woolf writing; we see Laura reading; we see Clarissa living her name | The novel is being shown as a living artefact, not a finished museum piece |
+| **Daldry's choice of "Mrs Dalloway" instead of "Septimus"** | Keeps the day-format, the party, the flowers | To honour Woolf's structure; the audience feels the conversation as form |
+
+The most BAND-6 observation: **each text's form is an argument about the other text's form.** Woolf's interior monologue argues that consciousness is fragmented; Daldry's three timelines argue that pattern across generations gives the fragmentation meaning.
+
+### The Dead Author Problem (Metafiction in Daldry)
+
+Daldry's most radical move: he puts WOOLF in his film. We see her writing. We know she will die (1941, suicide by drowning). The film knows its source.
+
+This is not a small addition. It makes the conversation CRITICAL. We are watching:
+- The author writing
+- The reader reading (Laura)
+- The inheritor living her name (Clarissa V.)
+
+Triangulated. The novel is no longer original — it is a STOP in a relay race of reception. Woolf hands to Laura; Laura could not hand to her daughter; her daughter's friend Clarissa lives the book she never chose.
+
+**Band 6 move:** "Daldry's metafictional framing is not decoration but method. By placing Virginia Woolf at the centre of his film, he collapses the temporal gap between writing and living-a-text — between authorship and reception. The audience is invited not merely to watch an adaptation, but to participate in the relay of interpretation across decades. The Hours argues that every book is born twice: once when the writer lays it down, and once when a later reader picks it up to live in it."
+
+### What Changes NOTHING (The Persistent Pattern)
+
+Across 80 years of context, certain patterns persist:
+
+| Pattern | Mrs Dalloway | The Hours |
+|---------|--------------|-----------|
+| Woman's life structured by ritual | Flowers → party | Flowers → party |
+| A kiss (queer or otherwise) as the emotional core | The Sally kiss | Three kisses |
+| A wedding anniversary / party as timemarker | Party for Elizabeth (and herself) | Party for Richard |
+| The performance of contentment masking interior grief | Clarissa performs at the party | Clarissa V. performs for years |
+| Mortality's intrusion ending the party's trance | Septimus's death | Richard's death |
+
+**Why this matters:** The conversation does not conclude with relief that "things have changed." It concludes with the harder observation: *visibility does not exempt a woman from performance, openness from grief, life from the burden of ritual.*
+
+This is the move that pushes your reading into Band 6 — refusing the easy progressive narrative. Context changes what can be SPOKEN. It does not change what is FELT.
+
+---
+
 ## Essay Structure (Thematic — RECOMMENDED)
 
 **Intro:**
@@ -104,4 +174,6 @@ Context shapes what can be spoken. Woolf's kiss is encoded because 1925 demanded
 ## See Also
 - [[Mrs Dalloway - Text Analysis]]
 - [[The Hours - Text Analysis]]
+- [[Critical Perspectives - Mod A]]
 - [[Module A - Landing]]
+- [[Writing Structures]]

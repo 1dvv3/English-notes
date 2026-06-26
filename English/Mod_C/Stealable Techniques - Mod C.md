@@ -48,37 +48,91 @@ Memorise 2-3 of these. Adapt them to ANY stimulus:
 
 ---
 
-## Skeleton Plan for an Imaginative Piece (Harwood-Inspired)
+## Advanced Craft Moves (Band 6 Level)
 
-**Opening (in medias res):**
-- Open with sensory detail grounded in physicality (Harwood-inspired)
-- Establish speaker's worldview (naive, confident, or limited)
-- Plant the moment the piece will reveal/undo
+These are the moves markers see as "sophisticated" — they show deliberate craft rather than accidental description.
 
-**Rising action:**
-- Describe the target/objective
-- Show the speaker's confidence
-- Show the moment things start to go wrong
-- Build toward the central realisation
+### 1. The Embedded Motif
+Pick ONE object or image and thread it throughout the piece. It transforms as the speaker transforms.
 
-**Turning point (key moment):**
-- Use direct speech (a single line is enough)
-- Echo Harwood's "End what you have begun" structure
-- Let silence do the work
+| Motif | Opens as... | Closes as... |
+|-------|-------------|--------------|
+| A garden | Place of childhood play | Inherited duty / site of grief |
+| A photograph | Captured moment | Lie / omission |
+| A kitchen | Nourishment / safety | Control / restriction |
+| A door | Threshold / possibility | Final separation |
 
-**Resolution / Echo:**
-- Jump forward in time (the Harwood diptych move)
-- The same speaker, older, looking back
-- Show how this moment still lives in them
+**Harwood does this with "sleep":** Part I = the owl's death ("slept"). Part II = the father approaching death ("as if death... were no more than sleep"). ONE word carries TWO meanings across time — the technique IS the theme.
+
+### 2. The Fragmented Sentence
+Break grammar deliberately to show rupture. Harwood does this: "not this obscene / bundle of stuff that dropped, and dribbled..." The enjambment across "obscene / bundle" makes the reader stumble — that stumble IS the horror.
+
+**Your version:** When your speaker is overwhelmed, let the sentence break. Fragment. Run on. Let the grammar perform the emotion.
+
+### 3. The Deliberate Silence
+Your piece needs one thing NOT said. Harwood's father gives ONE command ("End what you have begun") then falls silent. The silence is more powerful than a paragraph of dialogue would be.
+
+**Implementation:** In the moment of revelation / turning point, either:
+- The speaker turns away mid-sentence ("and then I—" [paragraph break])
+- The other person says ONE thing, then leaves
+- A description happens while the speaker refuses to name what they're describing
+
+### 4. Metafictional Awareness (McCann-inspired)
+Pause mid-narrative to question your own choices. This works best in discursive pieces but a light touch works in imaginative too.
+
+**Example:** "I could tell you the garden was overgrown — that's the easy image, the one every grief story reaches for — but I won't. The garden was immaculate. That was the problem."
+
+### 5. The Echo Ending
+Close with a transformed version of the opening image. Harwood's "sleep" is the model. If your piece opens with "The kettle was boiling," close with "The kettle was cold." The reader completes the arc without you having to explain it.
 
 ---
 
-## Recommended Reflection Outline
+## Skeleton Plan for an Imaginative Piece (Harwood-Inspired)
 
-1. **Purpose:** To explore how a single moment can shatter innocence and how that moment echoes across a lifetime
-2. **Influence (Harwood):** Her two-part structure in "Father and Child" inspired my temporal shift; her use of "loose straw tangling in bowels" taught me to ground horror in physical detail rather than abstraction
-3. **Techniques used:** In medias res, direct speech as turning point, sensory imagery, temporal shift
-4. **Evaluation:** The direct speech "..." mirrors Harwood's "End what you have begun" — both achieve maximum emotional impact with minimal words
+**Opening (in medias res — 2-3 sentences):**
+- Open with a single, specific, physical action or sensory detail
+- Grounded in the material world (Harwood's "loose straw tangling")
+- Establish speaker's worldview (naive, confident, limited, or evasive)
+- Plant the object/motif that will recur
+
+**Rising action (3-4 sentences):**
+- Build toward the central moment
+- Show the speaker's confidence OR their evasion
+- Let the world push back — something is wrong, they're misreading it
+- Concrete detail, concrete detail, concrete detail
+
+**Turning point — key moment of revelation (2-3 sentences):**
+- Use DIRECT SPEECH (a single line is enough). A command, a question, a refusal.
+- Echo Harwood's "End what you have begun" economy
+- Let silence do the work after the line
+- Change the grammar — if present tense before, shift here; if fragments before, let a full sentence land here
+
+**Shift in time (3-4 sentences):**
+- Jump forward — same speaker, older, looking back (the Harwood diptych move)
+- Return to the motif from the opening — but it means something different now
+- Show HOW the moment still lives in them — not THAT it does, but HOW
+
+**Resolution / Echo closing (2-3 sentences):**
+- Transform the opening image — don't repeat it, reverse it, complicate it
+- End on a concrete detail, not an abstraction
+- The reader should feel the arc without being told what to think
+
+---
+
+## Additional Prescribed Text Techniques (Deep Reference)
+
+For your secondary backup text, pick one of these specific techniques:
+
+| Text | Technique | How to Steal It |
+|------|-----------|-----------------|
+| **McCann** "What Time Is It Now..." | Metafictional self-exposure: the writer pauses to question her own choices | Have your narrator say "But that's not the whole story." Then reframe. |
+| **McCann** | Second-person address ("you are sitting at the table...") | Open one paragraph with second person, then return to first. The shift creates distance and intimacy simultaneously. |
+| **Garner** "How to Marry..." | The critical voice: literary analysis + personal anecdote = single register | When describing a moment, add one line of reflection that pulls back: "This is what fathers do. They leave the tea towel for you to find." |
+| **Garner** | Unreliable confession: "I think I felt X, but maybe I felt Y." | Undercut your narrator's certainty exactly once. Plant doubt. |
+| **Pearson** "Eulogy for Gough Whitlam" | Anaphora: "He was... He was... He was..." | Accumulate qualities in a list with the same opening phrase. Build weight through repetition. |
+| **Pearson** | Register shift — from formal to intimate mid-speech | Open formally ("In the life of the nation..."), then drop to personal — a memory, an anecdote, a small observation. |
+| **Tennyson** "The Lady of Shalott" | The mirror as structuring device — the character sees the world through a mediated frame | Give your speaker ONE way of seeing (a window, a photograph, a phone screen). All description passes through it. |
+| **Tennyson** | Refrain / refrain-like repetition | Repeat a single line or phrase three times across the piece. Each repetition carries different weight because context has shifted. |
 
 ---
 
